@@ -8,7 +8,7 @@
 https://f10-zvc.zdn.vn/94ff1d6e2faac4f49dbb/3281878484483370695
 
 ## Table of Contents
-- [TechTots](#techtots)
+- [FitnessFusi](#FitnessFusion)
   - [Demo App](#demo-app)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
@@ -20,7 +20,7 @@ https://f10-zvc.zdn.vn/94ff1d6e2faac4f49dbb/3281878484483370695
 
 ## About
 
-The TechTots app makes it easy for children to grasp programming concepts and ignites their passion for technology. The app offers video lectures, puzzle-solving games, and jigsaw activities, all centered around programming topics. The app's goal is to impart diverse programming knowledge and encourage children to develop creative thinking, providing them with the ability to create intelligent and unique projects according to their interests.
+    
 
 ## Features
 - Menu
