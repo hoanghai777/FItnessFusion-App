@@ -19,9 +19,7 @@ https://f10-zvc.zdn.vn/94ff1d6e2faac4f49dbb/3281878484483370695
     - [Installation](#installation)
 
 ## About
-
-    
-
+    Fitness Fusion was made to track calories for body builders
 ## Features
 - Menu
 - Exercise
