@@ -8,7 +8,7 @@
 https://f10-zvc.zdn.vn/94ff1d6e2faac4f49dbb/3281878484483370695
 
 ## Table of Contents
-- [FitnessFusi](#FitnessFusion)
+- [FitnessFusion](#FitnessFusion)
   - [Demo App](#demo-app)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
