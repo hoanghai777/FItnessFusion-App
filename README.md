@@ -1,6 +1,6 @@
-# TechTots
+<!-- # TechTots
 
-<img src="assets/logo.png" width="256" alt='logo'>
+<img src="assets/logo.png" width="256" alt='logo'> -->
 
 
 ## Demo App
