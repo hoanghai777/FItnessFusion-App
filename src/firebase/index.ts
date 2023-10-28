@@ -4,13 +4,13 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDsv32qRmjMmc6BALKCK1SI1itlhw8MsIg",
-  authDomain: "sporty-app-e5be8.firebaseapp.com",
-  projectId: "sporty-app-e5be8",
-  storageBucket: "sporty-app-e5be8.appspot.com",
-  messagingSenderId: "268194145212",
-  appId: "1:268194145212:web:c88d0f3f4b2ee916ea01b9",
-  measurementId: "G-5SHRGBXE5X",
+  apiKey: "AIzaSyDlNuq7P0-W2vwd0jgTZwTGDaNFSYBcOF4",
+  authDomain: "sporty-hoang-hai.firebaseapp.com",
+  projectId: "sporty-hoang-hai",
+  storageBucket: "sporty-hoang-hai.appspot.com",
+  messagingSenderId: "305225659046",
+  appId: "1:305225659046:web:70b479b1e88be8e57e3a67",
+  measurementId: "G-D4WDH9F4J4"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);

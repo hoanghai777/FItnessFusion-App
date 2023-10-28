@@ -1,11 +1,11 @@
-<!-- # TechTots
+# FitnessFusion-App
 
-<img src="assets/logo.png" width="256" alt='logo'> -->
+<img src="assets/logo.png" width="256" alt='logo'>
 
 
 ## Demo App
 <!--Lát quay video màn hình rồi đưa lên driver rồi cho link và bên dưới-->
-
+https://f10-zvc.zdn.vn/94ff1d6e2faac4f49dbb/3281878484483370695
 
 ## Table of Contents
 - [TechTots](#techtots)
@@ -24,18 +24,18 @@ The TechTots app makes it easy for children to grasp programming concepts and ig
 
 ## Features
 - Menu
-- Practice
-- Posst
-
+- Exercise
+- Post
+- Track your calories based on food you ate
+- Bmi calculator and calories indicator
 ## Screenshots
 
 <p float='left'>
-<img src="images/IMG_1853.PNG" width="45%" alt='screen_demo'>
-<img src="images/IMG_1854.PNG" width="45%" alt='screen_demo'>
-<img src="images/IMG_1856.PNG" width="45%" alt='screen_demo'>
-<img src="images/IMG_1857.PNG" width="45%" alt='screen_demo'>
-<img src="images/IMG_1858.PNG" width="45%" alt='screen_demo'>
-<img src="images/IMG_1860.PNG" width="45%" alt='screen_demo'>
+<img src="images/menu.jpg" width="45%" alt='screen_demo'>
+<img src="images/Exercise.jpg" width="45%" alt='screen_demo'>
+<img src="images/posts.jpg" width="45%" alt='screen_demo'>
+<img src="images/track-your-calories-based-on-food-you-ate.jpg" width="45%" alt='screen_demo'>
+<img src="images/Bmi-calculator-and-calories-indicator.jpg" width="45%" alt='screen_demo'>
 
 </p>
 
